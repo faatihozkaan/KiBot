@@ -1,0 +1,5 @@
+Row,Quantity Per PCB,References,Value,Datasheet,Footprint,Description,Manufacturer,Manufacturer Part Number,Supplier Part Number
+1,2,C401 C501,C,~,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Unpolarized capacitor,,,
+2,1,D501,LED,~,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,Light emitting diode,,,
+3,1,R501,R,~,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor,,,
+4,1,U401,ESP32-C3-DevKitM-1,https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html,ESP32-C3-DevKitM-1,Development board featuring ESP32-C3-MINI-1 module,,,

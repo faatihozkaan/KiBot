@@ -1,0 +1,17 @@
+** Drc report for KiBot.kicad_pcb **
+** Created on 2026-03-18T13:12:15+0000 **
+
+** Found 1 DRC violations **
+[track_dangling]: Track has unconnected end
+    ; warning
+    @(147.525 mm, 77.675 mm): Track [Net-(U401-IO4)] on L1 (Sig, PWR), length 1.3081 mm
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    ; error
+    @(145.14 mm, 72.72 mm): PTH pad 3 [Net-(C401-Pad1)] of U401
+    @(145.14 mm, 70.18 mm): PTH pad 2 [Net-(C401-Pad1)] of U401
+
+** Found 0 Footprint errors **
+
+** End of Report **
