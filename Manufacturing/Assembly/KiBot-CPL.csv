@@ -1,5 +1,5 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
-"C401","C","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",77.2000,31.7625,-90.0000,top
+"C401","C","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",88.6000,30.8000,-90.0000,top
 "C501","C","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",95.2825,21.8250,-90.0000,bottom
 "D501","LED","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",91.8300,23.0000,180.0000,bottom
 "R501","R","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",91.8750,20.0050,180.0000,bottom
