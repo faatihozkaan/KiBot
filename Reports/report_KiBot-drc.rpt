@@ -1,0 +1,14 @@
+** Drc report for KiBot.kicad_pcb **
+** Created on 2026-03-18T12:09:45+0000 **
+
+** Found 0 DRC violations **
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    ; error
+    @(145.14 mm, 72.72 mm): PTH pad 3 [Net-(C401-Pad1)] of U401
+    @(145.14 mm, 70.18 mm): PTH pad 2 [Net-(C401-Pad1)] of U401
+
+** Found 0 Footprint errors **
+
+** End of Report **

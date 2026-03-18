@@ -1,6 +1,6 @@
 Ref,Val,Package,PosX,PosY,Rot,Side
 "C401","C","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",77.2000,31.7625,-90.0000,top
-"C501","C","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",73.9175,25.2250,-90.0000,top
-"D501","LED","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",77.3700,26.4000,0.0000,top
-"R501","R","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",77.3250,23.4050,0.0000,top
+"C501","C","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",95.2825,21.8250,-90.0000,bottom
+"D501","LED","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",91.8300,23.0000,180.0000,bottom
+"R501","R","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",91.8750,20.0050,180.0000,bottom
 "U401","ESP32-C3-DevKitM-1","ESP32-C3-DevKitM-1",81.1400,38.3600,0.0000,top
