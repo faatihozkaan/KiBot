@@ -4,10 +4,14 @@
 
 ## [1.0.0] - 2026-03-18
 
+## [1.0.0] - 2026-03-18
+
 ### Added
 
     -   First version of the test board. insallah :D
 
 [Unreleased]: https://github.com/faatihozkaan/KiBot/compare/1.0.0...HEAD
+
+[1.0.0]: https://github.com/faatihozkaan/KiBot/compare/1.0.0...1.0.0
 
 [1.0.0]: https://github.com/faatihozkaan/KiBot/compare/2d07927d92c1e794478930e86bf770508f6a34c7...1.0.0
