@@ -4,4 +4,4 @@
 
 ### Added
 
-    -   First version of the test board. insallah :D
+-   First version of the test board. insallah :D
