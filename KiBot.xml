@@ -74,15 +74,11 @@
 11)	REFER TO IMPEDANCE TABLE FOR IMPEDANCE CONTROL REQUIREMENTS.
 
 12)	CONFIRM SPACE WIDTHS AND SPACINGS.</textvar>
-    <textvar name="GIT_HASH_PCB">b03202b</textvar>
-    <textvar name="GIT_HASH_SCH">b03202b</textvar>
+    <textvar name="GIT_HASH_PCB">e436c08</textvar>
+    <textvar name="GIT_HASH_SCH">e436c08</textvar>
     <textvar name="GIT_URL">https://github.com/nguyen-v/KDT_Hierarchical_KiBot</textvar>
     <textvar name="PROJECT_NAME">KiBot</textvar>
-    <textvar name="RELEASE_BODY_1.0.0">___________________________________
-
-Added
-
-    -   First version of the test board. insallah :D</textvar>
+    <textvar name="RELEASE_BODY_1.0.0"/>
     <textvar name="RELEASE_BODY_1.0.1"/>
     <textvar name="RELEASE_BODY_1.0.2"/>
     <textvar name="RELEASE_BODY_1.1.0"/>
@@ -94,7 +90,7 @@ Added
     <textvar name="RELEASE_TITLE_1.0.2"/>
     <textvar name="RELEASE_TITLE_1.1.0"/>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
-    <textvar name="REVISION">1.0.0</textvar>
+    <textvar name="REVISION"/>
     <textvar name="SHEET_NAME_1">Cover Page</textvar>
     <textvar name="SHEET_NAME_10">......................................</textvar>
     <textvar name="SHEET_NAME_11">......................................</textvar>
@@ -140,7 +136,7 @@ Added
       <title_block>
         <title/>
         <company>Semruk</company>
-        <rev>1.0.0</rev>
+        <rev/>
         <date>Date2</date>
         <source>KiBot.kicad_sch</source>
         <comment number="1" value=""/>
@@ -158,7 +154,7 @@ Added
       <title_block>
         <title>Block Diagram</title>
         <company>Semruk</company>
-        <rev>1.0.0</rev>
+        <rev/>
         <date>Date2</date>
         <source>Block Diagram.kicad_sch</source>
         <comment number="1" value=""/>
@@ -176,7 +172,7 @@ Added
       <title_block>
         <title>Project Architecture</title>
         <company>Semruk</company>
-        <rev>1.0.0</rev>
+        <rev/>
         <date>Date2</date>
         <source>Project Architecture.kicad_sch</source>
         <comment number="1" value=""/>
@@ -194,7 +190,7 @@ Added
       <title_block>
         <title>Sheet Title A</title>
         <company>Semruk</company>
-        <rev>1.0.0</rev>
+        <rev/>
         <date>Date2</date>
         <source>Section A - Title A.kicad_sch</source>
         <comment number="1" value=""/>
@@ -212,7 +208,7 @@ Added
       <title_block>
         <title>Sheet Title B</title>
         <company>Semruk</company>
-        <rev>1.0.0</rev>
+        <rev/>
         <date>Date2</date>
         <source>Section B - TItle B.kicad_sch</source>
         <comment number="1" value=""/>
@@ -230,7 +226,7 @@ Added
       <title_block>
         <title>Power - Sequencing</title>
         <company>Semruk</company>
-        <rev>1.0.0</rev>
+        <rev/>
         <date>Date2</date>
         <source>Power - Sequencing.kicad_sch</source>
         <comment number="1" value=""/>
@@ -248,7 +244,7 @@ Added
       <title_block>
         <title>Revision History</title>
         <company>Semruk</company>
-        <rev>1.0.0</rev>
+        <rev/>
         <date>Date2</date>
         <source>Revision History.kicad_sch</source>
         <comment number="1" value=""/>
