@@ -1,3 +1,5 @@
 Row,Quantity Per PCB,References,Value,Datasheet,Footprint,Description,Manufacturer,Manufacturer Part Number,Supplier Part Number
-1,1,C401,C,~,,Unpolarized capacitor,,,
-2,1,U401,ESP32-C3-DevKitM-1,https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html,ESP32-C3-DevKitM-1,Development board featuring ESP32-C3-MINI-1 module,,,
+1,2,C401 C501,C,~,,Unpolarized capacitor,,,
+2,1,D501,LED,~,,Light emitting diode,,,
+3,1,R501,R,~,,Resistor,,,
+4,1,U401,ESP32-C3-DevKitM-1,https://docs.espressif.com/projects/esp-idf/en/latest/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html,ESP32-C3-DevKitM-1,Development board featuring ESP32-C3-MINI-1 module,,,
