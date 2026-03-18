@@ -1,7 +1,7 @@
 # Changelog
 
-## [1.0.0]
+## [Unreleased]
 
 ### Added
 
--   First version of the test board. insallah :D
+    -   First version of the test board. insallah :D
