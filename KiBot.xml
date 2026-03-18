@@ -197,9 +197,10 @@
   <components>
     <comp ref="C401">
       <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <description>Unpolarized capacitor</description>
       <fields>
-        <field name="Footprint"/>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor</field>
       </fields>
@@ -231,9 +232,10 @@
     </comp>
     <comp ref="C501">
       <value>C</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
       <description>Unpolarized capacitor</description>
       <fields>
-        <field name="Footprint"/>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Unpolarized capacitor</field>
       </fields>
@@ -247,9 +249,10 @@
     </comp>
     <comp ref="D501">
       <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
       <description>Light emitting diode</description>
       <fields>
-        <field name="Footprint"/>
+        <field name="Footprint">LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Light emitting diode</field>
       </fields>
@@ -263,9 +266,10 @@
     </comp>
     <comp ref="R501">
       <value>R</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
       <description>Resistor</description>
       <fields>
-        <field name="Footprint"/>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</field>
         <field name="Datasheet"/>
         <field name="Description">Resistor</field>
       </fields>

@@ -1,6 +1,6 @@
 (export (version "E")
   (design
-    (source "/tmp/tmp-kibot-net_sch_print-q2jfzfdc/KiBot.kicad_sch")
+    (source "/tmp/tmp-kibot-net_sch_print-5jhna0yi/KiBot.kicad_sch")
     (date "Date")
     (tool "Eeschema 8.0.8+1")
     (textvar (name "ASSEMBLY_NOTES"))
@@ -181,9 +181,10 @@
   (components
     (comp (ref "C401")
       (value "C")
+      (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
       (description "Unpolarized capacitor")
       (fields
-        (field (name "Footprint"))
+        (field (name "Footprint") "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
         (field (name "Datasheet"))
         (field (name "Description") "Unpolarized capacitor"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
@@ -211,9 +212,10 @@
       (tstamps "79aaac9a-3445-4ca0-8e7c-d88ea922d187"))
     (comp (ref "C501")
       (value "C")
+      (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
       (description "Unpolarized capacitor")
       (fields
-        (field (name "Footprint"))
+        (field (name "Footprint") "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
         (field (name "Datasheet"))
         (field (name "Description") "Unpolarized capacitor"))
       (libsource (lib "Device") (part "C") (description "Unpolarized capacitor"))
@@ -225,9 +227,10 @@
       (tstamps "fec8f2e7-5ff7-4a11-ae6a-de2695e8e5d7"))
     (comp (ref "D501")
       (value "LED")
+      (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
       (description "Light emitting diode")
       (fields
-        (field (name "Footprint"))
+        (field (name "Footprint") "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
         (field (name "Datasheet"))
         (field (name "Description") "Light emitting diode"))
       (libsource (lib "Device") (part "LED") (description "Light emitting diode"))
@@ -239,9 +242,10 @@
       (tstamps "c188bf75-4fb1-471f-a685-4e107b7904df"))
     (comp (ref "R501")
       (value "R")
+      (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
       (description "Resistor")
       (fields
-        (field (name "Footprint"))
+        (field (name "Footprint") "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
         (field (name "Datasheet"))
         (field (name "Description") "Resistor"))
       (libsource (lib "Device") (part "R") (description "Resistor"))
