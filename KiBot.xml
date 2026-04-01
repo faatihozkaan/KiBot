@@ -85,6 +85,7 @@ Added
 -   First version of the test board. insallah :D</textvar>
     <textvar name="RELEASE_BODY_1.0.1"/>
     <textvar name="RELEASE_BODY_1.0.2"/>
+    <textvar name="RELEASE_BODY_1.0.3">Version 1.0.3 not found.</textvar>
     <textvar name="RELEASE_BODY_1.1.0"/>
     <textvar name="RELEASE_BODY_UNRELEASED">Version Unreleased not found.</textvar>
     <textvar name="RELEASE_DATE">01-Apr-2026</textvar>
@@ -92,6 +93,7 @@ Added
     <textvar name="RELEASE_TITLE_1.0.0">Version 1.0.0 - 2026-03-18</textvar>
     <textvar name="RELEASE_TITLE_1.0.1"/>
     <textvar name="RELEASE_TITLE_1.0.2"/>
+    <textvar name="RELEASE_TITLE_1.0.3">Version 1.0.3 not found.</textvar>
     <textvar name="RELEASE_TITLE_1.1.0"/>
     <textvar name="RELEASE_TITLE_UNRELEASED">Version Unreleased not found.</textvar>
     <textvar name="REVISION">+ (Unreleased)</textvar>
