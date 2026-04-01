@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('KiCad electronic assembly'),'2;1');
-FILE_NAME('KiBot.step','2026-04-01T13:14:58',('Pcbnew'),('Kicad'),
+FILE_NAME('KiBot.step','2026-04-01T13:29:19',('Pcbnew'),('Kicad'),
   'Open CASCADE STEP processor 7.6','KiCad to STEP converter','Unknown'
   );
 FILE_SCHEMA(('AUTOMOTIVE_DESIGN { 1 0 10303 214 1 1 1 1 }'));
@@ -3421,7 +3421,7 @@ SHAPE_REPRESENTATION_RELATIONSHIP() );
 #3340 = PRODUCT_DEFINITION_SHAPE('','',#3341);
 #3341 = PRODUCT_DEFINITION('design','',#3342,#3345);
 #3342 = PRODUCT_DEFINITION_FORMATION('','',#3343);
-#3343 = PRODUCT('kibot_uvgb5q0f_PCB','kibot_uvgb5q0f_PCB','',(#3344));
+#3343 = PRODUCT('kibot_4680ho7s_PCB','kibot_4680ho7s_PCB','',(#3344));
 #3344 = PRODUCT_CONTEXT('',#2,'mechanical');
 #3345 = PRODUCT_DEFINITION_CONTEXT('part definition',#2,'design');
 #3346 = ADVANCED_BREP_SHAPE_REPRESENTATION('',(#11,#3347),#4667);
