@@ -2,17 +2,6 @@
 
 ## [Unreleased]
 
-## [1.0.0] - 2026-03-18
-
 ### Added
 
--   First version of the test board. insallah :D
-## [1.0.2] - 2026-03-18
-
-### Added
-
--   tekrar release denemesi yapıyok
-
-[Unreleased]: https://github.com/faatihozkaan/KiBot/compare/1.0.0...HEAD
-
-[1.0.0]: https://github.com/faatihozkaan/KiBot/compare/2d07927d92c1e794478930e86bf770508f6a34c7...1.0.0
+-   tekrar release denemesi yapıyok.
